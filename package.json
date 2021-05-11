@@ -17,7 +17,7 @@
   "dependencies": {
     "bowser": "^2.9.0",
     "core-js": "^3.6.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "wolfy87-eventemitter": "^5.2.9"
   },
   "devDependencies": {
